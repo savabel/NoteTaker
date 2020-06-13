@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cookie-session": "^1.3.3",
+    "express": "^4.17.1",
+    "mime-types": "^2.1.25",
+    "pug": "^2.0.4",
+    "referrer-policy": "^1.2.0"
+  },
+  "name": "NoteTaker",
+  "description": "Create and save unlimited personal or work notes!",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/savabel/NoteTaker.git"
+  },
+  "author": "Abel JMS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savabel/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/savabel/NoteTaker#readme"
+}

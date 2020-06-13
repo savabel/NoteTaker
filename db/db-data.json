@@ -1,0 +1,11 @@
+[{
+    "id": 1,
+    "title": "My First Note",
+    "text": "This note is hardcoded"
+  },
+  {
+    "id": 202,
+    "title": "My Second Note",
+    "text": "This note is hardcoded"
+  }
+]
